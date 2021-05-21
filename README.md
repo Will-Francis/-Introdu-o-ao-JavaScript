@@ -1,2 +1,2 @@
-# -Introdu-o-ao-JavaScript
+# -Intro ao JavaScript
 Aulas DIO
